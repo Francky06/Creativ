@@ -45,7 +45,7 @@ else {
 	score -= 1;
 }
 if (score === 1) {
-	document.getElementById("bravo").innerHTML = "Continue!"
+	document.getElementById("bravo").innerHTML = "Continues!"
 }
 if (score === 2) {
 	document.getElementById("bravo").innerHTML = "Ha!"
@@ -57,7 +57,7 @@ if (score === 4) {
 	document.getElementById("bravo").innerHTML = "Encore un effort !!"
 }
 if (score === 5) {
-	document.getElementById("bravo").innerHTML = "Essaye d'arriver à 8,10,15,20 !!"
+	document.getElementById("bravo").innerHTML = "Essayes d'arriver à 8,10,15,20 !!"
 }
 if (score === 8) {
 	document.getElementById("bravo").innerHTML = "Tu dechires !!!!"
