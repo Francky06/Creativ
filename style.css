@@ -1,6 +1,9 @@
-	body {
+	body{
 			
 			background-color: white;
+			margin:0;
+			padding:0;
+
 
 						
 		}
@@ -238,6 +241,7 @@ box-shadow: inset 7px 7px 10px #848787,
 	width: 50%;
 }
 
+
 .welcom{
 	margin-top: 5%;
 }
@@ -256,11 +260,39 @@ box-shadow: inset 7px 7px 10px #848787,
 	border-radius: 50px;
 }
 
+.coffee{
+	padding-top: 1%;
+}
+
 
 @media (max-width: 576px) {
 	.card-columns{
 		column-count: 2;
 	}
+	.vid{
+		width: 100%;
+	}
+	.n6{
+		width: 96%;
+	}
+	.col-sm-12,.col-sm-6{
+		width: 50%;
+	}
+	.btnt{
+		width: 122px;
+		height: 122px;
+		padding-top: 30%;
+	}
+	#i, #j {
+    padding-top: 0;
+	}
+	.ciso{
+		margin:auto!important;
+	}
+	iframe{
+		width: 90%;
+	}
+
 }
 
 .zen{
