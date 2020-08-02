@@ -3,16 +3,18 @@
 			background-color: white;
 			margin:0;
 			padding:0;
-
-
 						
+		}
+
+		html{
+			scroll-behavior: smooth;
 		}
 
 		.navbar{
 			background-color: black!important;
 		}
 
-
+		
 		.btnt{
 			padding-top: 12%;
 			width: 	150px;
@@ -69,9 +71,11 @@
 			text-align: center;
 			margin-top: 3%;
 			
-			
 		}
 		
+		.row{
+			margin-right: 1%;
+		}
 
 		p{
 			color:#0f4900;
