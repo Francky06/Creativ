@@ -16,13 +16,13 @@
 
 		
 		.btnt{
-			padding-top: 12%;
+			padding-top: 4%;
 			width: 	150px;
 			height: 150px;
 			border-radius: 50%;
 		}
 		.btn0{
-			padding-top: 5%;
+			padding-top: 1%;
 			color: #008fcb;
 			box-shadow:  7px 7px 10px #003349, 
 			            inset -7px -7px 10px #008fcb;
@@ -285,7 +285,7 @@ box-shadow: inset 7px 7px 10px #848787,
 	.btnt{
 		width: 122px;
 		height: 122px;
-		padding-top: 30%;
+		padding-top: 8%;
 	}
 	#i, #j {
     padding-top: 0;

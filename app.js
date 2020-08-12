@@ -18,7 +18,7 @@ c.addEventListener("dblclick", function() {
 	c.innerHTML = "Sheldon Cooper"
 });
 let score = 0;
-const buttons = document.querySelectorAll("button1");
+const buttons = document.querySelectorAll(".btnt");
 for (let i = 0; i < buttons.length; i++) {
 buttons[i].addEventListener("click", function() {  
 const joueur = buttons[i].innerHTML;
